@@ -1,6 +1,6 @@
 During my time at The Tech Academy I worked on the C# Live Project, one of the four projects organized by the Academy. 
 
-There are total 4 Live Projects offered by the Academy to its students: Python Project, C# Project, 
+There are total 4 Live Projects offered by the Academy to their students: Python Project, C# Project, 
 Front End and Back End Projects.
 
 I was working in a team of other several developers on creating an application that was used to manage a collection of 
