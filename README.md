@@ -1,7 +1,6 @@
 During my time at The Tech Academy I worked on the C# Live Project, one of the four projects organized by the Academy. 
 
-There are total 4 Live Projects offered by the Academy to their students: Python Project, C# Project, 
-Front End and Back End Projects.
+There are total 4 Live Projects offered by the Academy to their students: [Python Project](https://github.com/NataliyaAZ/Python-Live-Project/blob/master/README.md), C# Project, [Front End](https://github.com/NataliyaAZ/C-Sharp-FrontEnd-Project/blob/master/README.md) and [Back End Projects](https://github.com/NataliyaAZ/Python-BackEnd-Project/blob/master/README.md).
 
 I was working in a team of other several developers on creating an application that was used to manage a collection of 
 construction jobs. Project had a list of front-end and back-end user stories. A developer could select any of them to 
